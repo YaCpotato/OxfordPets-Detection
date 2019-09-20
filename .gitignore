@@ -1,6 +1,5 @@
 images/
 .DS_Store
-data.npy
-data_label.npy
+*.npy
 localml/
 .ipynb_checkpoints/
